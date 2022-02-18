@@ -6,6 +6,7 @@ cover-img: /assets/img/people-3120717.jpg
 
 
 # Upcoming Events
+<br>
 
 ### April 29, 2022 10-11:30am PT
 ## Panel: Authorship challenges in big team science
