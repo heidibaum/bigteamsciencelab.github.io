@@ -17,9 +17,9 @@ cover-img: /assets/img/people-3120717.jpg
 
 ### Stanford members
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University, ManyBabies Consortium)
-* [Sophia Pink](Stanford University, Strengthening Democracy Challenge)
-* [Jan Voelkel](Stanford University, Strengthening Democracy Challenge)
-* [Robb Willer](Stanford University, Strengthening Democracy Challenge)
+* [Sophia Pink](http://www.sophiapink.com) (Stanford University, Strengthening Democracy Challenge)
+* [Jan Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel) (Stanford University, Strengthening Democracy Challenge)
+* [Robb Willer](https://sociology.stanford.edu/people/robb-willer) (Stanford University, Strengthening Democracy Challenge)
 
 ### Affiliates
 * [Nicolás Alessandroni](http://infantresearch.ca/team) (Concordia University, ManyBabies)
