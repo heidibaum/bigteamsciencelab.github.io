@@ -12,10 +12,9 @@ author: Heidi Baumgartner (adapted from ManyBabies site by Michael C. Frank and 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Learn more:
-    - People: "people"
-    - News: "news"
-    - Events: "events"
+  People: "people"
+  Events: "events"
+  News: "news"
   Get Involved: "get_involved"
 
 avatar: "/assets/img/avatar-icon_bits2.png"
