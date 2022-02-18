@@ -18,7 +18,7 @@ navbar-links:
     - Events: "events"
   Get Involved: "get_involved"
 
-avatar: "/assets/img/avatar-icon_bits.png"
+avatar: "/assets/img/avatar-icon_bits2.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour here.
 round-avatar: true

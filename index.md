@@ -2,7 +2,7 @@
 layout: page
 title: Stanford BiTS Lab
 subtitle: Bringing <i>Big Team Science</i> networks together
-cover-img: /assets/img/curiosity-1910023_cut2.jpg
+cover-img: /assets/img/BiTS_header.png
 ---
 
 <!---
