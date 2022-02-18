@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People
-cover-img: /assets/img/people_web.jpg
+cover-img: /assets/img/people_web.png
 ---
 
 
