@@ -17,7 +17,7 @@ The Stanford **Big Team Science Lab (BiTS)** was established in 2021 to facilita
 ***
 
 ## Get involved
-We encourage everyone who is interested in developmental research to [get involved]({{site.baseurl}}/get_involved/)! Access to infants/infant lab is **not** a prerequisite.
+We encourage everyone who is interested in big team science to [get involved]({{site.baseurl}}/get_involved/)!
 
 ***
 
