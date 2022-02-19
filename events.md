@@ -1,12 +1,12 @@
 ---
 layout: page
 title:  
-subtitle: 
+subtitle:  
 cover-img: /assets/img/events.png
 ---
 
 
-# Upcoming Events
+**Upcoming Events**
 <br>
 
 ### April 29, 2022 10-11:30am PT
@@ -23,7 +23,7 @@ Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas
 ***
 
 <!---
-# Past Events
+# **Past Events**
 
 ***
 --->
