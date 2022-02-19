@@ -6,23 +6,20 @@ cover-img: /assets/img/people_web.png
 ---
 
 
-# Stanford BiTS Lab
 
 ***
 
-## People
-
-### Co-Directors
+## Co-Directors
 * [Heidi Baumgartner]() (Stanford University, ManyBabies Consortium)
 * [Nicholas A. Coles]() (Stanford University, Psychological Science Accelerator)
 
-### Stanford members
+## Stanford members
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University, ManyBabies Consortium)
 * [Sophia Pink](http://www.sophiapink.com) (Stanford University, Strengthening Democracy Challenge)
 * [Jan Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel) (Stanford University, Strengthening Democracy Challenge)
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer) (Stanford University, Strengthening Democracy Challenge)
 
-### Affiliates
+## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team) (Concordia University, ManyBabies)
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University, ManyBabies)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia, ManyBabies)
