@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Events
-cover-img: /assets/img/people-3120717.jpg
+cover-img: /assets/img/events.png
 ---
 
 
