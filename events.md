@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Events
+title:  
+subtitle: 
 cover-img: /assets/img/events.png
 ---
 
