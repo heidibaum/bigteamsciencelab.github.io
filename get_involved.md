@@ -2,7 +2,7 @@
 layout: page
 title: Get Involved!
 subtitle: Join BiTS!
-cover-img: /assets/img/siblings-862967.jpg #child-871845.jpg
+cover-img: /assets/img/join_us.png
 ---
 
 ### Join our network of networks!
