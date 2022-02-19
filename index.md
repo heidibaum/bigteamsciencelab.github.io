@@ -21,7 +21,7 @@ Meet the [people]({{site.baseurl}}/people/) who make up BiTS
 
 ***
 ## Events
-See upcoming and past BiTS [svents]({{site.baseurl}}/events/)
+See upcoming and past BiTS [events]({{site.baseurl}}/events/)
 
 ***
 ## News
