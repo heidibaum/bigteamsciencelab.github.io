@@ -1,11 +1,12 @@
 ---
 layout: page
-title: 
-subtitle: 
+
+
 cover-img: /assets/img/people_web.png
 ---
 
-
+title: 
+subtitle:
 
 ***
 
@@ -28,6 +29,7 @@ cover-img: /assets/img/people_web.png
 * [Melanie Soderstrom](https://home.cc.umanitoba.ca/~soderstr/) (University of Manitoba, ManyBabies)
 * [Francis Yuen](https://cic.psych.ubc.ca/) (University of British Columbia, ManyBabies)
 * [Martin Zettersten](https://mzettersten.github.io) (Princeton University, ManyBabies)
+
 
 ## Affiliate organizations
 * [ManyBabies](manybabies.github.io)
