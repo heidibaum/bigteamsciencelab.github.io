@@ -1,12 +1,8 @@
 ---
 layout: page
-
-
 cover-img: /assets/img/people_web.png
 ---
 
-title: 
-subtitle:
 
 ***
 
