@@ -36,6 +36,8 @@ cover-img: /assets/img/people_web.png
 * [ManyPrimates](https://manyprimates.github.io)
 * [Psychological Science Accelerator](https://psysciacc.org)
 * [Strengthening Democracy Challenge](https://www.strengtheningdemocracychallenge.org)
+<br>
+
 ***
 
 
