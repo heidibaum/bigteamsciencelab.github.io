@@ -15,7 +15,7 @@ subtitle:
 * [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles) (Stanford University, Psychological Science Accelerator)
 
 ## Stanford members
-* [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University, ManyBabies Consortium)
+* [Michael C. Frank](https://web.stanford.edu/~mcfrank/) (Stanford University, ManyBabies)
 * [Sophia Pink](http://www.sophiapink.com) (Stanford University, Strengthening Democracy Challenge)
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel) (Stanford University, Strengthening Democracy Challenge)
 * [Robb Willer](https://sociology.stanford.edu/people/robb-willer) (Stanford University, Strengthening Democracy Challenge)
