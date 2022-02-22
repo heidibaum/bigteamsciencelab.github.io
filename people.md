@@ -28,6 +28,7 @@ cover-img: /assets/img/people_web.png
 
 
 ## Affiliate organizations
+* [Lookit](https://lookit.mit.edu)
 * [ManyBabies](manybabies.github.io)
 * [ManyBirds](http://themanybirds.com)
 * [ManyDogs](https://manydogsproject.github.io)
