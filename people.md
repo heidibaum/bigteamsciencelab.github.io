@@ -1,5 +1,6 @@
 ---
 layout: page
+title: people
 cover-img: /assets/img/people_web.png
 ---
 
