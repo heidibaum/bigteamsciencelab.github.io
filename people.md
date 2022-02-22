@@ -7,7 +7,7 @@ cover-img: /assets/img/people_web.png
 ***
 
 ## Co-Directors
-* [Heidi Baumgartner](https://profiles.stanford.edu/heidi-baumgartner) (Stanford University, ManyBabies)
+* [Heidi A. Baumgartner](https://profiles.stanford.edu/heidi-baumgartner) (Stanford University, ManyBabies)
 * [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles) (Stanford University, Psychological Science Accelerator)
 
 ## Stanford members
