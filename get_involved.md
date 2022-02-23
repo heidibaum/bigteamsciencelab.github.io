@@ -1,5 +1,6 @@
 ---
 layout: page
+title: join us
 cover-img: /assets/img/join_us.png
 ---
 
