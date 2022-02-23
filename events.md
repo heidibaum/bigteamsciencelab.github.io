@@ -1,10 +1,12 @@
 ---
 layout: page
-cover-img: /assets/img/events.png
+title: events
+cover-img: /assets/img/events_blank.png
 ---
 
 
 **Upcoming Events**
+
 <br>
 
 ### April 29, 2022 10-11:30am PT
