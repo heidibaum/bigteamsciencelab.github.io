@@ -6,7 +6,6 @@ cover-img: /assets/img/events_blank.png
 
 
 **Upcoming Events**
-
 <br>
 
 ### April 29, 2022 10-11:30am PT
@@ -17,13 +16,17 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 ### Panelists 
 * (TBD)
 
+<!---
+* Liz Allen, CRediT
+* Nicholas Coles, PSA
+--->
 
 Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas Coles](ncoles@stanford.edu) 
 
 ***
 
 <!---
-# **Past Events**
+**Past Events**
 
 ***
 --->
