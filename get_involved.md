@@ -1,6 +1,6 @@
 ---
 layout: page
-title: join us
+title: get involved
 cover-img: /assets/img/network.png
 ---
 
