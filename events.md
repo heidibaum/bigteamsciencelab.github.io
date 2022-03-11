@@ -16,7 +16,7 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 ### Panelists 
 * Liz Allen (co-developer of the [Contributor Roles Taxonomy](https://casrai.org/credit/))
 * Flávio Azevedo (co-developer of the [Framework for Open and Reproducible Research Training](https://forrt.org))
-* additional panelists TBD
+* <i>additional panelists TBD</i>
 
 <!---
 * Liz Allen, CRediT
