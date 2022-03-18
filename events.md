@@ -25,7 +25,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 
 ### Registration
 
-Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g).
+Register to attend the panel (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g).
 
 
 ### Submit Topics or Questions
