@@ -19,6 +19,18 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Robert Thibault**, *metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
+
+### Registeration
+
+Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g)
+
+
+### Submit Topics or Questions
+
+link TK
+
+<br>
+
 Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas Coles](ncoles@stanford.edu) 
 
 ***
