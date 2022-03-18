@@ -22,7 +22,7 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 
 ### Registeration
 
-Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g)
+Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g).
 
 
 ### Submit Topics or Questions
