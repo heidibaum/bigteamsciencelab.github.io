@@ -27,7 +27,7 @@ Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/reg
 
 ### Submit Topics or Questions
 
-link TK
+You can submit topic ideas or questions for the panelists via [this form](https://docs.google.com/forms/d/1RP7CUhvZen913jeiVQFJCo643-vqGm5JOdwn9qwbs5A/edit).
 
 <br>
 
