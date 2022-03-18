@@ -30,7 +30,7 @@ Register to attend the virtual panel (for free!) [here](https://stanford.zoom.us
 
 ### Submit Topics or Questions
 
-You can submit topic ideas or questions for the panelists via [this form](https://docs.google.com/forms/d/1RP7CUhvZen913jeiVQFJCo643-vqGm5JOdwn9qwbs5A/edit).
+You can submit topic ideas or questions for the panelists via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9XD8pwPOQXDcBGkWgbya-rI8uZHNUHO095B5nthfWDKKIgw/viewform?usp=sf_link).
 
 
 ### Contact Us
