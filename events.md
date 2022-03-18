@@ -15,9 +15,9 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 
 ### Panelists 
 * Liz Allen, <i>co-developer of the [Contributor Roles Taxonomy (CRediT)](https://casrai.org/credit/)</i>
-* Flávio Azevedo (co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org))
-* Nicholas Coles (director of the [Psychological Science Accelerator (PSA)]())
-* Robert Thibault (metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/))
+* Flávio Azevedo, <i>co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)</i>
+* Nicholas Coles, <i>director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)</i>
+* Robert Thibault, <i>metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)</i>
 
 Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas Coles](ncoles@stanford.edu) 
 
