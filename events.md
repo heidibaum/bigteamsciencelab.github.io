@@ -21,7 +21,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Robert Thibault**, *metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
->Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](manybabies.github.io)*
+>Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](https://manybabies.github.io/)*
 
 ### Registration
 
