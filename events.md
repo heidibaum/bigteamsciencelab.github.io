@@ -8,7 +8,7 @@ cover-img: /assets/img/events_blank.png
 **Upcoming Events**
 <br>
 
-### April 29, 2022 10-11:30am PT | Zoom
+### April 29, 2022 10-11:30am PT on Zoom
 ## *Panel:* Authorship challenges in big team science
 
 The rise of big team science (Coles et al., 2022) has vitalized conversations about how scientific contributions are recognized and rewarded. For example, what constitutes authorship in science? Perspectives on this issue vary both within and between individual researchers, scientific organizations, publishers, and science stakeholders. For example, some groups have developed models that distinguish between (a) author vs. non-author contributions, (b) individual vs. group contributions, and so on (Council of Science Editors, 2006). Others have endorsed models that do not make such distinctions and instead include taxonomies for describing the nature of researchers’ contributions (Allen, Brand, Scott, Altman, & Hlava, 2014; Holcombe, 2019; Moshontz et al., 2018). 
