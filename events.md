@@ -11,7 +11,9 @@ cover-img: /assets/img/events_blank.png
 ### April 29, 2022 10-11:30am PT
 ## Panel: Authorship challenges in big team science
 
-The rise of big team science (Coles et al. 2022) has vitalized conversations about how scientific contributions are recognized and rewarded. This panel will discuss one of the central issues in these conversations: what constitutes authorship in science? Perspectives on this issue vary both within and between individual researchers, scientific organizations, publishers, and science stakeholders. For example, some groups have developed models that distinguish between (a) author vs. non-author contributions, (b) individual vs. group contributions, and so on (Council of Science Editors, 2006). Others have endorsed models that do not make such distinctions—and instead include taxonomies for describing the nature of researchers’ contributions (Allen, Brand, Scott, Altman, & Hlava, 2014; Holcombe, 2019; Moshontz et al., 2018). The goal of this panel is to further this important conversation by bringing together individuals with varied perspectives on the issue.
+The rise of big team science (Coles et al., 2022) has vitalized conversations about how scientific contributions are recognized and rewarded. For example, what constitutes authorship in science? Perspectives on this issue vary both within and between individual researchers, scientific organizations, publishers, and science stakeholders. For example, some groups have developed models that distinguish between (a) author vs. non-author contributions, (b) individual vs. group contributions, and so on (Council of Science Editors, 2006). Others have endorsed models that do not make such distinctions and instead include taxonomies for describing the nature of researchers’ contributions (Allen, Brand, Scott, Altman, & Hlava, 2014; Holcombe, 2019; Moshontz et al., 2018). 
+
+This panel will bring together diverse perspectives to discuss various authorship challenges in big team science. This will include (1) decisions about consortium vs. non-consortium authorship, (2) handling authorship disputes, (3) collaboration agreements, (4) acknowledging diverse contributions, and (5) navigating differences in authorship standards. Attendees will also be encouraged to bring their own questions and contribute to the conversation.
 
 ### Panelists 
 * **Liz Allen**,  *co-developer of the [Contributor Roles Taxonomy (CRediT)](https://casrai.org/credit/)*
@@ -19,7 +21,7 @@ The rise of big team science (Coles et al. 2022) has vitalized conversations abo
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Robert Thibault**, *metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
-> Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies](manybabies.github.io)*
+<t>Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies](manybabies.github.io)*
 
 ### Registration
 
