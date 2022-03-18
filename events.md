@@ -32,7 +32,8 @@ Register for the webinar (for free!) [here](https://stanford.zoom.us/webinar/reg
 
 You can submit topic ideas or questions for the panelists via [this form](https://docs.google.com/forms/d/1RP7CUhvZen913jeiVQFJCo643-vqGm5JOdwn9qwbs5A/edit).
 
-<br>
+
+### Contact Us
 
 Email the organizers: [Heidi Baumgartner](mailto:heidib@stanford.edu), [Nicholas Coles](ncoles@stanford.edu) 
 
