@@ -19,7 +19,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 * **Liz Allen**,  *co-developer of the [Contributor Roles Taxonomy (CRediT)](https://casrai.org/credit/)*
 * **Flávio Azevedo**,  *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
-* **Simon Kerridge**, *former director of [Research & Innovation Services](https://research.kent.ac.uk/ris-operations/person/simon-kerridge/) at the University of Kent*
+* **Simon Kerridge**, *former director of [CASRAI](https://casrai.org/about/)*
 * **Robert Thibault**, *metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
 >Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](https://manybabies.github.io/)*
