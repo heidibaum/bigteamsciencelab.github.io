@@ -20,7 +20,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 * **Flávio Azevedo**,  *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Simon Kerridge**, *former chair of [CASRAI](https://casrai.org/about/)*
-* **Robert Thibault**, *metascience researcher at the [Meta-Resarch Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
+* **Robert Thibault**, *metascience researcher at the [Meta-Research Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
 >Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](https://manybabies.github.io/)*
 
