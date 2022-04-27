@@ -16,8 +16,7 @@ The rise of big team science (Coles et al., 2022) has vitalized conversations ab
 This panel will bring together diverse perspectives to discuss various authorship challenges in big team science. This will include (1) decisions about consortium vs. non-consortium authorship, (2) handling authorship disputes, (3) collaboration agreements, (4) acknowledging diverse contributions, and (5) navigating differences in authorship standards. Attendees will also be encouraged to bring their own questions and contribute to the conversation.
 
 ### Panelists 
-* **Liz Allen**,  *co-developer of the [Contributor Roles Taxonomy (CRediT)](http://credit.niso.org)*
-* **Flávio Azevedo**,  *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
+* **Flávio Azevedo**, *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Simon Kerridge**, *[NISO](http://credit.niso.org) CRediT Working Group Co-Chair*
 * **Robert Thibault**, *metascience researcher at the [Meta-Research Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
