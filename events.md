@@ -18,7 +18,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 ### Panelists 
 * **Flávio Azevedo**, *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
-* **Simon Kerridge**, *[NISO](http://credit.niso.org) CRediT Working Group Co-Chair*
+* **Simon Kerridge**, *[NISO CRediT](http://credit.niso.org) Working Group Co-Chair*
 * **Robert Thibault**, *metascience researcher at the [Meta-Research Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
 >Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](https://manybabies.github.io/)*
