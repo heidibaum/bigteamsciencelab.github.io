@@ -18,6 +18,7 @@ This panel will bring together diverse perspectives to discuss various authorshi
 ### Panelists 
 * **Flávio Azevedo**, *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
+* **Lisa DeBruine**, *member of the American Psychological Association’s [Publications and Communications Board](https://www.apa.org/about/governance/bdcmte/publication)*
 * **Simon Kerridge**, *[NISO CRediT](http://credit.niso.org) Working Group Co-Chair*
 * **Robert Thibault**, *metascience researcher at the [Meta-Research Innovation Center at Stanford (METRICS)](https://metrics.stanford.edu/)*
 
