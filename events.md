@@ -5,7 +5,7 @@ cover-img: /assets/img/events_blank.png
 ---
 
 
-**Upcoming Events**
+**Past Events**
 <br>
 
 ### April 29, 2022 10-11:30am PT on Zoom
@@ -24,15 +24,9 @@ This panel will bring together diverse perspectives to discuss various authorshi
 
 >Moderated by **Heidi Baumgartner**, *executive director of [ManyBabies (MB)](https://manybabies.github.io/)*
 
-### Registration
+### Watch the recording
 
-Register to attend the virtual panel (for free!) [here](https://stanford.zoom.us/webinar/register/WN_ulIv4RL6ReKuSo4vf90a8g).
-
-
-### Submit Topics or Questions
-
-You can submit topic ideas or questions for the panelists via [this form](https://docs.google.com/forms/d/e/1FAIpQLSf9XD8pwPOQXDcBGkWgbya-rI8uZHNUHO095B5nthfWDKKIgw/viewform?usp=sf_link).
-
+A recording of the panel is available [here](https://stanford.zoom.us/rec/play/2uaC97qwwMzeK57ghAVdQHKC-fgXEFifoEbcTOGGiOMzcqc-prfPs7XgeUcL57DAKTeUFncBBDTvfOq7._xHP9rhrYWenlbI6?continueMode=true)
 
 ### Contact Us
 
