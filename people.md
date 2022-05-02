@@ -19,7 +19,7 @@ cover-img: /assets/img/people_blank.png
 
 ## Affiliate members
 * [Nicolás Alessandroni](http://infantresearch.ca/team) (Concordia University, ManyBabies)
-* [Flavio Azevedo](http://flavioazevedo.com/about) (Cambridge University,)
+* [Flavio Azevedo](http://flavioazevedo.com/about) (Cambridge University, FORRT)
 * [Krista Byers-Heinlein](https://www.concordia.ca/artsci/psychology/faculty.html?fpid=krista-byers-heinlein) (Concordia University, ManyBabies)
 * [Kiley Hamlin](https://psych.ubc.ca/profile/kiley-hamlin/) (University of British Columbia, ManyBabies)
 * [Melissa Kline Struhl](http://www.melissaklinestruhl.com) (MIT, Lookit & ManyBabies)
