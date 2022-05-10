@@ -4,7 +4,7 @@ title: events
 cover-img: /assets/img/events_blank.png
 ---
 
-**Upcoming Events**
+#### *Upcoming Events*
 
 ### Autumn, 2022 
 ## Big Team Science Conference
@@ -13,7 +13,7 @@ Details TBA
 
 ***
 
-**Past Events**
+#### *Past Events*
 <br>
 
 ### April 29, 2022 10-11:30am PT on Zoom
