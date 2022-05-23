@@ -4,9 +4,16 @@ title: events
 cover-img: /assets/img/events_blank.png
 ---
 
+#### *Upcoming Events*
 
-**Past Events**
-<br>
+### Autumn, 2022 
+## Big Team Science Conference
+
+Details TBA
+
+***
+
+#### *Past Events*
 
 ### April 29, 2022 10-11:30am PT on Zoom
 ## *Panel:* Authorship challenges in big team science
@@ -15,8 +22,8 @@ The rise of big team science (Coles et al., 2022) has vitalized conversations ab
 
 This panel will bring together diverse perspectives to discuss various authorship challenges in big team science. This will include (1) decisions about consortium vs. non-consortium authorship, (2) handling authorship disputes, (3) collaboration agreements, (4) acknowledging diverse contributions, and (5) navigating differences in authorship standards. Attendees will also be encouraged to bring their own questions and contribute to the conversation.
 
-### Panelists
-* **Flávio Azevedo**, *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
+### Panelists 
+* **Flavio Azevedo**, *co-developer of the [Framework for Open and Reproducible Research Training (FORRT)](https://forrt.org)*
 * **Nicholas Coles**, *director of the [Psychological Science Accelerator (PSA)](https://psysciacc.org/)*
 * **Lisa DeBruine**, *member of the American Psychological Association’s [Publications and Communications Board](https://www.apa.org/about/governance/bdcmte/publication)*
 * **Simon Kerridge**, *co-chair of the [NISO CRediT](http://credit.niso.org) Working Group*
