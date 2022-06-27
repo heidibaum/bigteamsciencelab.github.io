@@ -6,7 +6,7 @@ cover-img: /assets/img/events_blank.png
 
 #### *Upcoming Events*
 
-### Autumn, 2022 
+### October 27-28, 2022 
 ## Big Team Science Conference
 
 <a href="https://bigteamscienceconference.github.io" target="_blank"><img src="/assets/img/BTSCon2022_logo.png" alt="2022 Big Team Science Conference, hosted virtually October 27-28" /></a>
