@@ -12,6 +12,7 @@ cover-img: /assets/img/people_blank.png
 * [Nicholas A. Coles](https://hai.stanford.edu/people/nicholas-coles), *Stanford University, Psychological Science Accelerator*
 
 ## Stanford members
+* [Shilaan Alzahawi](https://shilaan.rbind.io), *Stanford University, Center for Open and Reproducible Science, Data Science for Social Good*
 * [Michael C. Frank](https://web.stanford.edu/~mcfrank/), *Stanford University, ManyBabies*
 * [Sophia Pink](http://www.sophiapink.com), *Stanford University, Strengthening Democracy Challenge*
 * [Jan Gerrit Voelkel](https://sociology.stanford.edu/people/jan-gerrit-voelkel), *Stanford University, Strengthening Democracy Challenge*
